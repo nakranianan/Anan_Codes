@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nakranianan/Anan_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nakranianan/Anan_Codes/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nakranianan/Anan_Codes/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
