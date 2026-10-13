@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nakranianan/Anan_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nakranianan/Anan_Codes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nakranianan/Anan_Codes/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nakranianan/Anan_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nakranianan/Anan_Codes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nakranianan/Anan_Codes/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nakranianan/Anan_Codes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nakranianan/Anan_Codes/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
