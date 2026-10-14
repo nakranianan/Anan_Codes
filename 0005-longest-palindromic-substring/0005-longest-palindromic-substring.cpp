@@ -5,7 +5,6 @@ public:
         int n = s.length();
 
         for (int i = 0; i < n; i++) {
-            // Odd-length palindrome
             int left = i, right = i;
 
             while (left >= 0 && right < n && s[left] == s[right]) {
@@ -17,7 +16,6 @@ public:
                 right++;
             }
 
-            // Even-length palindrome
             left = i;
             right = i + 1;
 
