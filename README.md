@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nakranianan/Anan_Codes/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nakranianan/Anan_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nakranianan/Anan_Codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nakranianan/Anan_Codes/tree/master/0016-3sum-closest) |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nakranianan/Anan_Codes/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nakranianan/Anan_Codes/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nakranianan/Anan_Codes/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
