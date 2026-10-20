@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nakranianan/Anan_Codes/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/nakranianan/Anan_Codes/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nakranianan/Anan_Codes/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0010-regular-expression-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nakranianan/Anan_Codes/tree/master/0033-search-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
