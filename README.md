@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nakranianan/Anan_Codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nakranianan/Anan_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nakranianan/Anan_Codes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nakranianan/Anan_Codes/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
