@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
