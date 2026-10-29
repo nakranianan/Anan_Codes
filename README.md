@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nakranianan/Anan_Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakranianan/Anan_Codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nakranianan/Anan_Codes/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/nakranianan/Anan_Codes/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
