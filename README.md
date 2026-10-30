@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakranianan/Anan_Codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nakranianan/Anan_Codes/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/nakranianan/Anan_Codes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nakranianan/Anan_Codes/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
