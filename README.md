@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nakranianan/Anan_Codes/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/nakranianan/Anan_Codes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 ## Trie
 |  |
