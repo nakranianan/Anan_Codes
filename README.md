@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nakranianan/Anan_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nakranianan/Anan_Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
 ## String Matching
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
