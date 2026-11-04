@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
 ## Two Pointers
@@ -143,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nakranianan/Anan_Codes/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 ## Algorithm X
 |  |
