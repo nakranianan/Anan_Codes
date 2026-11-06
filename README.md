@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nakranianan/Anan_Codes/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nakranianan/Anan_Codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nakranianan/Anan_Codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/nakranianan/Anan_Codes/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nakranianan/Anan_Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/nakranianan/Anan_Codes/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 ## String
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nakranianan/Anan_Codes/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 ## Simulation
