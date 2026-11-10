@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nakranianan/Anan_Codes/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nakranianan/Anan_Codes/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/nakranianan/Anan_Codes/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nakranianan/Anan_Codes/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nakranianan/Anan_Codes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nakranianan/Anan_Codes/tree/master/0072-edit-distance) |
