@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nakranianan/Anan_Codes/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/nakranianan/Anan_Codes/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nakranianan/Anan_Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/nakranianan/Anan_Codes/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nakranianan/Anan_Codes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/nakranianan/Anan_Codes/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
