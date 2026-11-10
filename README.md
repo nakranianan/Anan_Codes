@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nakranianan/Anan_Codes/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/nakranianan/Anan_Codes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nakranianan/Anan_Codes/tree/master/0072-edit-distance) |
 ## Manacher
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nakranianan/Anan_Codes/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/nakranianan/Anan_Codes/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nakranianan/Anan_Codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
