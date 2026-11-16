@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nakranianan/Anan_Codes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nakranianan/Anan_Codes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nakranianan/Anan_Codes/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nakranianan/Anan_Codes/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -182,4 +184,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nakranianan/Anan_Codes/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
