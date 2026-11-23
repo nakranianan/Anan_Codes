@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nakranianan/Anan_Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nakranianan/Anan_Codes/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/nakranianan/Anan_Codes/tree/master/0089-gray-code) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nakranianan/Anan_Codes/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/nakranianan/Anan_Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nakranianan/Anan_Codes/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/nakranianan/Anan_Codes/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 ## String Matching
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nakranianan/Anan_Codes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nakranianan/Anan_Codes/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nakranianan/Anan_Codes/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/nakranianan/Anan_Codes/tree/master/0089-gray-code) |
 ## Divide and Conquer
 |  |
 | ------- |
