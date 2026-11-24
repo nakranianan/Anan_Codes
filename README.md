@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nakranianan/Anan_Codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nakranianan/Anan_Codes/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakranianan/Anan_Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nakranianan/Anan_Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nakranianan/Anan_Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nakranianan/Anan_Codes/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakranianan/Anan_Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nakranianan/Anan_Codes/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakranianan/Anan_Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakranianan/Anan_Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nakranianan/Anan_Codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakranianan/Anan_Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Quicksort
 |  |
 | ------- |
